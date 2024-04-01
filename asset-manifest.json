@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/ShoesWebUi/static/css/main.78bdfa90.css",
+    "main.js": "/ShoesWebUi/static/js/main.3852cbda.js",
+    "static/media/shoe_image.png": "/ShoesWebUi/static/media/shoe_image.fc09364163c51452503d.png",
+    "index.html": "/ShoesWebUi/index.html",
+    "main.78bdfa90.css.map": "/ShoesWebUi/static/css/main.78bdfa90.css.map",
+    "main.3852cbda.js.map": "/ShoesWebUi/static/js/main.3852cbda.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.78bdfa90.css",
+    "static/js/main.3852cbda.js"
+  ]
+}
